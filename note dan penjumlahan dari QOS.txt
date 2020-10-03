@@ -1,0 +1,22 @@
+Throughput:
+ jumlah bytes/time span = 138230/14.801
+                        = 9339 Bytes/s
+                        = 9,339 KB/s
+                        = 9,339*8
+                        = 74 Kb/s
+
+Delay:
+ total delay = 14801121s 
+ rata rata delay = 77492,78s = 77492780ms
+
+jitter:
+ total jitter = 13789916s
+ rata-rrata jitter = 72198,51309s = 72198513,09ms
+
+Error/Packet lost:   
+ (paket dikirim-paket diterima)/paket diterima)*100)
+                       =  0 karena tidak ada jaringan yang loss yang loss
+
+     
+Latency: sama seperti delay
+          
